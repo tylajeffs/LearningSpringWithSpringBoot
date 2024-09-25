@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tylajeffs.lil.learning_spring.LearningSpringApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.236 s -- in com.tylajeffs.lil.learning_spring.LearningSpringApplicationTests
